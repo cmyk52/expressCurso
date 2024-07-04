@@ -1,0 +1,15 @@
+{
+  "name": "expresscurso",
+  "version": "1.0.0",
+  "description": "curso de express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jose marambio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
